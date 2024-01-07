@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    background: url('mountainimg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-size: 40px;
+}
+.inf{
+    width:20%;
+    padding: 40px 30px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    backdrop-filter: blur(3px);
+    margin-top: 10%;
+    padding-top: 30px;
+}   
+a{
+    color: whitesmoke;
+}
+h1{
+    margin-left: 80px;
+}
